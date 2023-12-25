@@ -1,0 +1,28 @@
+.first {
+  background-color: antiquewhite;
+  border-color: bisque;
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+}
+.second {
+  background-color: brown;
+  width: 200px;
+  height: 200px;
+  margin-left: 260px;
+  border: solid 20px;
+}
+.third {
+  background-color: aquamarine;
+  width: 200px;
+  height: 200px;
+  margin-left: 500px;
+  border: solid 10px;
+}
+h1 {
+  margin: 0px;
+}
+body {
+  margin: 0px;
+}
